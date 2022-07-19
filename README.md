@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Satyamsahugr8
-- -> Python
-- -> Django
 - -> HTML,CSS,BOOTSRAP
 - -> java
 - -> JDBC,Hibernate
