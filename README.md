@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satyamsahugr8
-- -> HTML,CSS,BOOTSRAP
-- -> java
-- -> JDBC,Hibernate
+- -> HTML, CSS, BOOTSRAP
+- -> Java (JAVA 8)
+- -> JDBC
 - -> Javascript, ES6 
 - -> 🌱 I’m currently learning Spring-Framework, React 
 
